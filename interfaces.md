@@ -171,10 +171,4 @@ Recommended counters to expose (even if not all are in the report):
 - `event_backpressure_cycles`
 - `orders_tx`
 
----
 
-## 11) Items not fully specified in the report (mark as TBD if you replicate)
-- Exact TCP port numbers and connection setup details
-- Exact byte/word alignment rules at the AXI-stream boundary
-- Exact normalized bit widths for price/qty/order_id beyond “ITCH-native fields”
-- Exact ring buffer depth/thresholds
