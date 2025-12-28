@@ -3,9 +3,9 @@
 // Company: 
 // Engineer: 
 // 
-// Create Date: 12/15/2025 05:44:37 PM
+// Create Date: 12/25/2025 04:31:35 PM
 // Design Name: 
-// Module Name: update_cov
+// Module Name: byte_ring_buffer
 // Project Name: 
 // Target Devices: 
 // Tool Versions: 
@@ -20,7 +20,7 @@
 //////////////////////////////////////////////////////////////////////////////////
 
 
-module update_cov(
+module byte_ring_buffer(
 
     );
 endmodule
